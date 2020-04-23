@@ -1,10 +1,10 @@
 member:
  rent:
-  min: 8
-  max: 31
+  min: 800
+  max: 3100
  price:
-  discount: 3
+  discount: 5
 vehicle:
  default:
-  model: cross over
+  model: Benz
 duration: all

@@ -1,10 +1,10 @@
 member:
  rent:
-  min: 8
-  max: 31
+  min: 800
+  max: 3100
  price:
-  discount: 5
+  discount: 8
 vehicle:
  default:
-  model: prod
+  model: Ford
 duration: all
