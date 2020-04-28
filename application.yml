@@ -12,3 +12,9 @@ spring:
       ddl-auto: update
     database-platform: org.hibernate.dialect.MySQL8Dialect
     show-sql: true
+security:
+  oauth2:
+    client:
+      id: mhh
+      client-secret: 1234
+      access-token-uri: http://localhost:9292/oauth/check_token
